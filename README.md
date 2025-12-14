@@ -133,3 +133,4 @@ Motivo: O vetor de Bob [1,1,0] indica que P0 (Alice) postou, mas o vetor local d
 
 Após 40s: O Post de Alice chega. O sistema processa Alice e libera automaticamente a mensagem do Bob do Buffer.
 
+> Este projeto foi desenvolvido por Erick Vinicius Justino da Silva para a disciplina de Sistemas distribuídos (DCA/UFRN).
